@@ -1,0 +1,3 @@
+- 👋 Oi, eu sou a @gabrielyanjos05
+- 👀 Eu estou interessado em aprender a programar novas linguagens
+- 🌱 eu estou aprendendo a programar recentemente a linguagem do JavaScript e Scratch
